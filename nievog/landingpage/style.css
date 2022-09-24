@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 13vh;
+    width: 100%;
+    background-color: rgb(98, 138, 250);
+}
+
+body{
+    background-color: rgb(0, 96, 223);
+}
+
+ul,li{
+    display: flex;
+}
+
+li{
+    padding: 1vh;
+    padding-right: 6vh;
+    text-decoration: none;
+}
+
+.niev{
+    padding-left: 6vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.produtos{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-top: 5vh;
+    padding-left: 30vh;
+    text-align: center;
+}
+
+.infotshirt{
+    height: 40vh;
+    width: 30vh;
+    border: 1px solid black;
+}
+
+.tshirts{
+    height: 30vh;
+}
