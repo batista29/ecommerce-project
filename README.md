@@ -5,7 +5,10 @@ Treinar hablidades com CSS, aprender novas funções do JAVASCRIPT, e quem sabe 
 Meta do projeto:
 Tela de login funcional (login pré-difinido por objeto json), tela de produtos, pesquisa funcional e tela para o carrinho.
 Data de inicio: 24/09/2022
+  <br>
 Data de conclusão: ...
+  <p>
 Linguagens utilizadas:
   Front-end:
-  HTML - CSS - JAVASCRIPT<h2>
+  HTML - CSS - JAVASCRIPT
+  </p><h2>
