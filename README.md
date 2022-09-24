@@ -1,5 +1,6 @@
 <h1>Projeto de ecommerce<h1>
 
+<h2>
 Objetivo com o projeto:
 Treinar hablidades com CSS, aprender novas funções do JAVASCRIPT, e quem sabe também aprender a usar novas API's.
 
@@ -13,3 +14,4 @@ Data de conclusão: ...
   
   Front-end:
   HTML - CSS - JAVASCRIPT
+<h2>
