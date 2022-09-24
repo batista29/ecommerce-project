@@ -1,7 +1,6 @@
 <h1>Projeto de ecommerce<h1>
 
-<h2>
-Objetivo com o projeto:
+<h2>Objetivo com o projeto:
 Treinar hablidades com CSS, aprender novas funções do JAVASCRIPT, e quem sabe também aprender a usar novas API's.
 
 Meta do projeto:
@@ -9,9 +8,8 @@ Tela de login funcional (login pré-difinido por objeto json), tela de produtos,
 
 Data de inicio: 24/09/2022
 Data de conclusão: ...
-
+<br>
   Linguagens utilizadas:
   
   Front-end:
-  HTML - CSS - JAVASCRIPT
-<h2>
+  HTML - CSS - JAVASCRIPT<h2>
