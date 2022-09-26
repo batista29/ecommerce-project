@@ -12,6 +12,8 @@ Tela de login funcional (login pré-difinido por objeto json), tela de produtos,
 Data de conclusão: ...
   <p>
 Linguagens utilizadas:
+</p>
+<p>
   Front-end:
   HTML - CSS - JAVASCRIPT
   </p><h3>
