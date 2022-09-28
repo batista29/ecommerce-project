@@ -18,5 +18,5 @@ Este projeto é uma criação de e-commerce feito com JavaScript (frontend e bac
 ## Autor
 * Natã Batista Fernandes
 
-Siga-me no github se gostou do projeto
-Obrigado pela visita, e até a próxima :)
+<p>Siga-me no github se gostou do projeto</p>
+<p>Obrigado pela visita, e até a próxima :)</p>
