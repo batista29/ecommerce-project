@@ -1,19 +1,22 @@
-<h1>Projeto de ecommerce<h1>
 
-<h3>Objetivo com o projeto:
-Treinar hablidades com CSS, aprender novas funções do JAVASCRIPT, e quem sabe também aprender a usar novas API's.
-  <br>
-Meta do projeto:
-  <br>
-Tela de login funcional (login pré-difinido por objeto json), tela de produtos, pesquisa funcional e tela para o carrinho.
-<br>
-  Data de inicio: 24/09/2022
-  <br>
-Data de conclusão: ...
-  <p>
-Linguagens utilizadas:
-</p>
-<p>
-  Front-end:
-  HTML - CSS - JAVASCRIPT
-  </p><h3>
+
+## NIEV.OG
+Este projeto é uma criação de e-commerce feito com JavaScript (frontend e backend) e mysql (database), o objetivo do projeto é a utilização de novas funções nas devidas linguagens.
+
+## Linguagens
+
+* JavaScript
+* Mysql
+* HTML5
+* CSS3
+
+## Ferramentas
+
+* Github
+
+
+## Autor
+* Natã Batista Fernandes
+
+Siga-me no github se gostou do projeto
+Obrigado pela visita, e até a próxima :)
