@@ -13,7 +13,7 @@
 
 ##IMAGENS DO PROJETO
 
-<img src="https://github.com/batista29/ecommerce-project/blob/main/img-projeto/projetoEcommerce.png" height="20vh">
+<img src="https://github.com/batista29/ecommerce-project/blob/main/img-projeto/projetoEcommerce.png" height="200vh">
 
 ## Ferramentas
 
