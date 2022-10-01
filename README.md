@@ -11,9 +11,9 @@
 * HTML5
 * CSS3
 
-##IMAGENS DO PROJETO
+## IMAGENS DO PROJETO
 
-<img src="https://github.com/batista29/ecommerce-project/blob/main/img-projeto/projetoEcommerce.png" height="200vh">
+<img src="https://github.com/batista29/ecommerce-project/blob/main/img-projeto/projetoEcommerce.png" height="600vh">
 
 ## Ferramentas
 
