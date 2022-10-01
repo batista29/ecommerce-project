@@ -46,3 +46,9 @@ button {
     height: 3vh;
     width: 10vh;
 }
+
+.semCadastro{
+    padding-top: 5vh;
+    font-size: 2vh;
+    color: black;
+}
